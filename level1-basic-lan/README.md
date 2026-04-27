@@ -102,6 +102,9 @@ Switches run STP automatically to prevent loops. When a new link comes up, the p
 - Cisco Packet Tracer 8.x
 - Cisco IOS CLI
 - Cisco 1941 Router
+
+- ## Project File
+Download the Packet Tracer file: [level1-basic-lan.pkt](level1-basic-lan.pkt)
 - Cisco 2960 Switch
 
 ---
