@@ -9,7 +9,7 @@ and document hands-on networking skills toward CCNA certification.
 |-------|-------|--------|
 | 1 | Basic LAN Setup | ✅ Complete |
 | 2 | VLANs + Inter-VLAN Routing | ✅ Complete |
-| 3 | OSPF Dynamic Routing | 🔒 Locked |
+| 3 | OSPF Dynamic Routing | ✅ Complete |
 | 4 | ACLs + Network Security | 🔒 Locked |
 | 5 | Full SOC-Ready Network | 🔒 Locked |
 
